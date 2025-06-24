@@ -86,7 +86,7 @@ Contexte : Stage à la Wilaya de la région Laâyoune-Sakia El Hamra
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayoub-chammakh-a11508279)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-chammakh-a11508279/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Chamm.ayoub@gmail.com)
 
 ---
