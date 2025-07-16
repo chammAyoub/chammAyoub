@@ -78,9 +78,9 @@ Contexte : Stage à la Wilaya de la région Laâyoune-Sakia El Hamra
 ## 🎯 Objectifs 2025
 - [ ] Contribuer à des projets open source  
 - [ ] Commencer mon Master en Ingénierie Logicielle  
-- [ ] Obtenir une **certification Angular**
+- [ ] Obtenir une **certification React/Angular**
 - [ ] Obtenir une **certification Spring Boot** 
-- [ ] Réaliser plusieurs projets **Spring Boot** & **Angular**  
+- [ ] Réaliser plusieurs projets **Spring Boot** & **React**  
 
 
 ## 📫 Me contacter
