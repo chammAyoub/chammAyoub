@@ -73,8 +73,7 @@ Contexte : Stage à la Wilaya de la région Laâyoune-Sakia El Hamra
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=chammAyoub&show_icons=true&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chammAyoub&theme=tokyonight&hide_border=true)
 ## 🎯 Objectifs 2025
 - [ ] Contribuer à des projets open source  
 - [ ] Commencer mon Master en Ingénierie Logicielle  
