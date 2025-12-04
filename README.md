@@ -1,12 +1,11 @@
 # Salut 👋, je suis CHAMMAKH Ayoub
 
 ## 🎓 À propos de moi
-- 🎯 **Jeune diplômé en Ingénierie Logicielle
+- 🎯 **Étudiant en Master 1 Ingénierie Logicielle (IL)**
 - 💻 Passionné par le **développement full-stack** et les nouvelles technologies
 - 🌱 Actuellement en recherche d'opportunités dans le **développement web**
 - 📍 Basé à **Laâyoune, Maroc**
 - 🎯 Objectif : Contribuer à des projets innovants et impactants
-
 
 ## 🛠️ Technologies & Outils
 
@@ -20,9 +19,9 @@
 ### Technologies Web
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Frameworks & Technologies
-![Java EE](https://img.shields.io/badge/-Java%20EE-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
@@ -37,6 +36,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Contrôle de version
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -45,45 +45,39 @@
 ![UML](https://img.shields.io/badge/-UML-0052CC?style=flat-square&logo=uml&logoColor=white)
 ![StarUML](https://img.shields.io/badge/-StarUML-FF6B35?style=flat-square&logo=staruml&logoColor=white)
 
-🚀 Projets récents
-📱 Application mobile e-commerce Android
+## 🚀 Projets récents
 
-Description : Application mobile pour le commerce électronique
-Technologies : Kotlin, Jetpack Compose
-Fonctionnalités : Intégration APIs REST, système de commandes, interface utilisateur moderne
+### 🚗 Smart Parking System (En cours)
+- **Description** : Système de gestion de parking intelligent avec architecture distribuée
+- **Technologies** : Java RMI, Spring Boot, React, AI Integration
+- **Fonctionnalités** : Gestion temps réel des places, capteurs simulés, dashboard administrateur
 
-🛒 Boutique en ligne WordPress
+### 📱 Application mobile e-commerce Android
+- **Description** : Application mobile pour le commerce électronique
+- **Technologies** : Kotlin, Jetpack Compose
+- **Fonctionnalités** : Intégration APIs REST, système de commandes, interface utilisateur moderne
 
-Description : Plateforme e-commerce complète avec gestion des commandes
-Technologies : WordPress, WooCommerce
-Réalisations : Personnalisation du thème, configuration des paiements, optimisation UX
+### 🛒 Boutique en ligne WordPress
+- **Description** : Plateforme e-commerce complète avec gestion des commandes
+- **Technologies** : WordPress, WooCommerce
+- **Réalisations** : Personnalisation du thème, configuration des paiements, optimisation UX
 
-🏛️ Plateforme de réclamations citoyens-communes
-
-Description : Solution digitale pour améliorer la communication entre citoyens et administration
-Technologies : CodeIgniter, MySQL, Bootstrap
-Fonctionnalités : Soumission automatique, suivi des réclamations, gestion des suggestions et observations
-
-📄 Système de gestion des courriers
-
-Description : Application web pour la gestion documentaire administrative
-Technologies : PHP, MySQL, Bootstrap
-Fonctionnalités : CRUD complet, système d'archivage, interface d'administration
-Contexte : Stage à la Wilaya de la région Laâyoune-Sakia El Hamra
+### 🏛️ Plateforme de réclamations citoyens-communes
+- **Description** : Solution digitale pour améliorer la communication entre citoyens et administration
+- **Technologies** : CodeIgniter, MySQL, Bootstrap
+- **Fonctionnalités** : Soumission automatique, suivi des réclamations, gestion des suggestions et observations
 
 ## 📊 Statistiques GitHub
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chammAyoub&theme=tokyonight&hide_border=true)
-## 🎯 Objectifs 2025
-- [ ] Contribuer à des projets open source  
-- [ ] Commencer mon Master en Ingénierie Logicielle  
-- [ ] Obtenir une **certification React/Angular**
-- [ ] Obtenir une **certification Spring Boot** 
-- [ ] Réaliser plusieurs projets **Spring Boot** & **React**  
 
+## 🎯 Objectifs 2025
+- [ ] Contribuer à des projets open source
+- [x] Exceller en Master 1 Ingénierie Logicielle
+- [ ] Obtenir une **certification React/Angular**
+- [ ] Obtenir une **certification Spring Boot**
+- [ ] Finaliser le projet **Smart Parking System**
 
 ## 📫 Me contacter
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-chammakh-a11508279/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Chamm.ayoub@gmail.com)
 
