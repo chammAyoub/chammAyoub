@@ -4,7 +4,7 @@
 - 🎯 **Étudiant en Master 1 Ingénierie Logicielle (IL)**
 - 💻 Passionné par le **développement full-stack** et les nouvelles technologies
 - 🌱 Actuellement en recherche d'opportunités dans le **développement web**
-- 📍 Basé à **Laâyoune, Maroc**
+- 📍 Basé à **Agadir, Maroc**
 - 🎯 Objectif : Contribuer à des projets innovants et impactants
 
 ## 🛠️ Technologies & Outils
